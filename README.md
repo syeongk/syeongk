@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imsyk)](https://solved.ac/imsyk)​
-출처: https://han-hoon.tistory.com/entry/Git-Hub-깃허브-READMEmd-백준-Solvedac-적용하기 [Hoongrammer:티스토리]
