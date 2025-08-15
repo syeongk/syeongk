@@ -133,5 +133,3 @@
 
 > 🏆 2025.02.24 | UMC University IT Community 7th Demo Day | Excellence prize
 -->
-
----
