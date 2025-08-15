@@ -30,7 +30,7 @@
 
 > 🏆 2025.06.26 헥토그룹 성과발표회 은상 수상
 
-### [2. 그로우잇 (24.12~)]((https://github.com/syeongk/growit-springboot))
+### [2. 그로우잇 (24.12~)](https://github.com/syeongk/growit-springboot)
 **음성 기반 AI와 대화하며 일기를 기록하고, 개인 맞춤형 마음챙김 챌린지를 제공해 정신 건강을 체계적으로 관리하는 앱**
 
 <details>
