@@ -21,7 +21,7 @@
   <div markdown="1">
 
 1. **Skills & Tools**
-    - `Spring boot, Java, JPA` `MySQL` `kt cloud, Docker` `Thymleaf`
+    - `Spring boot, Java, Spring Data JPA` `MySQL` `kt cloud, Docker` `Thymleaf`
 2. **Contributions**
    - **기획 및 디자인**: `서비스 기획`, `스토리보드(SB)`, `와이어프레임`, `UI/UX 디자인`
    - **백엔드**: 주요 기능(`AI 질문 생성`, `모의 면접`, `결과 리포트`) 포함 전체 API 구현 및 `Docker`를 활용한 `kt cloud` 서버 배포
@@ -40,7 +40,7 @@
   <div markdown="1">
 
 1. **Skills**
-   - `Spring boot, Java, Spring Security, JPA` `MySQL` `AWS, Prometheus, Grafana`
+   - `Spring boot, Java, Spring Security, Spring Data JPA` `MySQL` `AWS, Prometheus, Grafana`
 2. **Contributions**
    - **인증 및 보안**: `Spring Security`, `JWT` 기반의 사용자 인증 시스템 구축
    - **AI 모델 파인튜닝**: `OpenAI ChatGPT 4o-mini` 모델 파인튜닝하여 맞춤형 피드백 제공
@@ -61,7 +61,7 @@
     <div markdown="1">
 
 1. **Skills & Tools**
-    - `Spring boot, Java, JPA` `MySQL` `kt cloud, Docker` `Thymleaf`
+    - `Spring boot, Java, Spring Data JPA` `MySQL` `kt cloud, Docker` `Thymleaf`
 2. **Contributions**
     - **Planning & Design :** Led service planning, storyboarding (SB), wireframing, and UI/UX design. 
     - **Back-end :** Implemented all APIs for core features (AI question generation, mock interviews, results reports) and deployed the server to kt cloud using Docker. 
@@ -81,7 +81,7 @@
     <div markdown="1">
 
 1. **Skills & Tools**
-    - `Spring boot, Java, Spring Security, JPA` `MySQL` `AWS, Prometheus, Grafana`
+    - `Spring boot, Java, Spring Security, Spring Data JPA` `MySQL` `AWS, Prometheus, Grafana`
 2. **Contributions**
     - **Authentication & Security:** Built a user authentication system using Spring Security and JWT.
     - **AI Model Fine-tuning:** Fine-tuned the OpenAI ChatGPT 4o-mini model to provide personalized feedback.
@@ -99,10 +99,10 @@
 ## Skills & Tools
 
 **Back-end :**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 **Database :**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
