@@ -12,7 +12,7 @@
 
 ---
 
-## Projects
+## Projects and Contributions
 ### [1. 아웃풋 (25.04~25.06)](https://github.com/syeongk/output)
 **사용자 맞춤형 면접 연습 환경을 제공하여 실전 면접에 대한 준비를 돕는 앱**
 
