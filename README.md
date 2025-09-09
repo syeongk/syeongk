@@ -16,40 +16,8 @@
 ### [1. 아웃풋 (25.04~25.06)](https://github.com/syeongk/output)
 **사용자 맞춤형 면접 연습 환경을 제공하여 실전 면접에 대한 준비를 돕는 앱**
 
-<details>
-  <summary>자세히 보기</summary>
-  <div markdown="1">
-
-1. **Skills & Tools**
-    - `Spring boot, Java, Spring Data JPA` `MySQL` `kt cloud, Docker` `Thymleaf`
-2. **Contributions**
-   - **기획 및 디자인**: `서비스 기획`, `스토리보드(SB)`, `와이어프레임`, `UI/UX 디자인`
-   - **백엔드**: 주요 기능(`AI 질문 생성`, `모의 면접`, `결과 리포트`) 포함 전체 API 구현 및 `Docker`를 활용한 `kt cloud` 서버 배포
-   - **프론트엔드**: 관리자 페이지 개발 및 백엔드 로직 연동
-   - **문서화 및 협업**: `요구사항 정의서`, `ERD`, `WBS`, `테스트 케이스` 작성, `Swagger`활용 API 명세 자동화
-     </div>
-</details>
-
-> 🏆 2025.06.26 헥토그룹 성과발표회 은상 수상
-
 ### [2. 그로우잇 (24.12~)](https://github.com/syeongk/growit-springboot)
 **음성 기반 AI와 대화하며 일기를 기록하고, 개인 맞춤형 마음챙김 챌린지를 제공해 정신 건강을 체계적으로 관리하는 앱**
-
-<details>
-  <summary>자세히 보기</summary>
-  <div markdown="1">
-
-1. **Skills**
-   - `Spring boot, Java, Spring Security, Spring Data JPA` `MySQL` `AWS, Prometheus, Grafana`
-2. **Contributions**
-   - **인증 및 보안**: `Spring Security`, `JWT` 기반의 사용자 인증 시스템 구축
-   - **AI 모델 파인튜닝**: `OpenAI ChatGPT 4o-mini` 모델 파인튜닝하여 맞춤형 피드백 제공
-   - **배포 및 모니터링**: `AWS`활용 서버 배포 및 `Prometheus`, `Grafana` 서버 모니터링
-   - **문서화 및 협업**: `ERD` 작성, `Swagger`활용 API 명세 자동화
-     </div>
-</details>
-    
-> 🏆 2025.02.24 UMC 대학생 IT 연합 동아리 7th 데모데이 우수상 수상
 
 <!--
 ## Projects
