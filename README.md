@@ -12,13 +12,6 @@
 
 ---
 
-## Projects and Contributions
-### [1. 아웃풋 (25.04~25.06)](https://github.com/syeongk/output)
-**사용자 맞춤형 면접 연습 환경을 제공하여 실전 면접에 대한 준비를 돕는 앱**
-
-### [2. 그로우잇 (24.12~)](https://github.com/syeongk/growit-springboot)
-**음성 기반 AI와 대화하며 일기를 기록하고, 개인 맞춤형 마음챙김 챌린지를 제공해 정신 건강을 체계적으로 관리하는 앱**
-
 <!--
 ## Projects
 ### [1. Output (Apr 2025 - Jun 2025)](https://github.com/syeongk/output)
