@@ -10,8 +10,6 @@
 **💡 요즘 관심 있는 분야**
 - `React`를 활용한 프론트엔드 개발
 
----
-
 <!--
 ## Projects
 ### [1. Output (Apr 2025 - Jun 2025)](https://github.com/syeongk/output)
